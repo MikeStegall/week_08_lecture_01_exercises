@@ -62,23 +62,32 @@ d.) Node
 ### 9) Which window objects are available to a given JavaScript program?
 a.) All of the tabs in the same browser window
 
-b.) Only the tab or window that contains the current HTML document
+**b.) Only the tab or window that contains the current HTML document**
 
 c.) All tabs across all browser windows
 
 d.) All instances of in the history of the current tab
 ### 10) To which object do the location, console, and document properties belong?
-a.) Window
+**a.) Window**
+
 b.) Document
+
 c.) Tab
+
 d.) Global
 ### 11) What JavaScript function is used to run code after a specified delay?
 a.) wait()
+
 b.) setInterval()
-c.) setTimeout()
+
+**c.) setTimeout()**
+
 d.) sleep()
 ### 12) What JavaScript function is used to run code periodically?
 a.) wait()
-b.) setInterval()
+
+**b.) setInterval()**
+
 c.) setTimeout()
+
 d.) sleep()
