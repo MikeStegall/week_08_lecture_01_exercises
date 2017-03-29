@@ -8,9 +8,9 @@ c.) querySelector()
 d.) querySelectorAll()
 
 ### 2) Can you iterate over collections of html elements (HTMLCollection) using forEach()?
-a.) yes (but really yes)
+**a.) yes (answer)**
 
-**b.) no (answer)**
+b.) no
 ### 3) Which of the following can you use to remove an element from the DOM?
 a.) document.remove()
 
