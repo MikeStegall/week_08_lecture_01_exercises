@@ -5,7 +5,7 @@ a.) getElementById()
 
 c.) querySelector()
 
-d.) querySelectorAll()
+**d.) querySelectorAll() (answer)**
 
 ### 2) Can you iterate over collections of html elements (HTMLCollection) using forEach()?
 **a.) yes (answer)**

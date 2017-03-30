@@ -1,0 +1,9 @@
+body{
+  background-color: white;
+
+}
+
+.scary{
+  background-image: url(../img/scary.jpeg);
+  background-size: cover;
+}
