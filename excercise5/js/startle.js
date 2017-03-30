@@ -1,4 +1,4 @@
 // startle.js
-function startle() {
+function startle () {
   // todo: write code that produces a delayed reaction.
 }
